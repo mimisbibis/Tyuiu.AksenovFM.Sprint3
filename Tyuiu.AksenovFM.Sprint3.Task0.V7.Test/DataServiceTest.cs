@@ -1,6 +1,7 @@
 ﻿using Tyuiu.AksenovFM.Sprint3.Task0.V7.Lib;
 
 namespace Tyuiu.AksenovFM.Sprint3.Task0.V7.Test
+
 {
     [TestClass]
     public sealed class DataServiceTest
